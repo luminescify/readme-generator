@@ -1,4 +1,3 @@
-
   # README Generator
 
   ![License Badge](https://img.shields.io/static/v1?label=License&message=MIT&color=success)
@@ -11,6 +10,7 @@
 
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Mockup](#mockup)
   - [License](#license)
   - [Contribution](#contribution)
   - [Testing](#testing)
@@ -28,6 +28,12 @@
   This project uses the inquirer package to prompt you with a series of questions in the command line in order to generate a README. Open the directory containing this project and run the required command in the command line. 
   
   Once all questions have been answered, a completed README.md file will be generated at the root of the directory.
+
+  ## Mockup
+
+  The following gif shows how a user would utilize the application in the command line.
+
+  ![Gif](./assets/images/Mockup-READMEGen.gif)
 
   ## License
 
@@ -53,4 +59,3 @@
   GitHub: luminescify
   
   E-mail: ileahd96@gmail.com
-  
