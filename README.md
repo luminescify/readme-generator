@@ -29,11 +29,13 @@
   
   Once all questions have been answered, a completed README.md file will be generated at the root of the directory.
 
-  ## Mockup
+  ## Demo
 
-  The following gif shows how a user would utilize the application in the command line.
+  The following gif and demo video shows how a user would utilize the application in the command line.
 
   ![Gif](./assets/images/Mockup-READMEGen.gif)
+
+  https://youtu.be/FNBqaptEII0
 
   ## License
 
